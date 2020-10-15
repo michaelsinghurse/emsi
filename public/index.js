@@ -94,7 +94,6 @@ const App = {
   },
 
   renderHtmlTemplates(data) {
-    console.log(data);
     $("header").html(this.headerTemplate(data));    
     $("#summary-root").html(this.summaryTemplate(data));
     $("#trend-comparison-root").html(this.trendComparisonTemplate(data));
