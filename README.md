@@ -4,7 +4,7 @@
 The project seems pretty straightforward. I believe I understand all the
 requirements. I think there will be two primary challenges for me:
 1. The time limit. 
-2. The line graph. I've never used a front-end charting library.
+2. The line chart. I've never used a front-end charting library.
 
 I'll take the following steps in building this project:
 1. Develop the HTML and CSS with fixed/hard-coded job data (no API calls). I'll
